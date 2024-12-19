@@ -1,0 +1,15 @@
+C:\Users\seven\source\repos\QuanLyDSsinhvien\QuanLyDSsinhvien\bin\Debug\QuanLyDSsinhvien.exe.config
+C:\Users\seven\source\repos\QuanLyDSsinhvien\QuanLyDSsinhvien\bin\Debug\QuanLyDSsinhvien.exe
+C:\Users\seven\source\repos\QuanLyDSsinhvien\QuanLyDSsinhvien\bin\Debug\QuanLyDSsinhvien.pdb
+C:\Users\seven\source\repos\QuanLyDSsinhvien\QuanLyDSsinhvien\bin\Debug\EntityFramework.dll
+C:\Users\seven\source\repos\QuanLyDSsinhvien\QuanLyDSsinhvien\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\seven\source\repos\QuanLyDSsinhvien\QuanLyDSsinhvien\bin\Debug\EntityFramework.xml
+C:\Users\seven\source\repos\QuanLyDSsinhvien\QuanLyDSsinhvien\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\seven\source\repos\QuanLyDSsinhvien\QuanLyDSsinhvien\obj\Debug\QuanLyDSsinhvien.csproj.AssemblyReference.cache
+C:\Users\seven\source\repos\QuanLyDSsinhvien\QuanLyDSsinhvien\obj\Debug\QuanLyDSsinhvien.Form1.resources
+C:\Users\seven\source\repos\QuanLyDSsinhvien\QuanLyDSsinhvien\obj\Debug\QuanLyDSsinhvien.Properties.Resources.resources
+C:\Users\seven\source\repos\QuanLyDSsinhvien\QuanLyDSsinhvien\obj\Debug\QuanLyDSsinhvien.csproj.GenerateResource.cache
+C:\Users\seven\source\repos\QuanLyDSsinhvien\QuanLyDSsinhvien\obj\Debug\QuanLyDSsinhvien.csproj.CoreCompileInputs.cache
+C:\Users\seven\source\repos\QuanLyDSsinhvien\QuanLyDSsinhvien\obj\Debug\QuanLyDS.556CB671.Up2Date
+C:\Users\seven\source\repos\QuanLyDSsinhvien\QuanLyDSsinhvien\obj\Debug\QuanLyDSsinhvien.exe
+C:\Users\seven\source\repos\QuanLyDSsinhvien\QuanLyDSsinhvien\obj\Debug\QuanLyDSsinhvien.pdb
